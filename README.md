@@ -4,4 +4,5 @@ Trabalho de implementação de um algoritmo genético de otimização de hiperpa
 Autores:
 
 Rafael Augusto Freitas Oliveira - 20.1.4038
+
 Guilherme Augusto Anicio Drummond do Nascimento - 20.1.4007
