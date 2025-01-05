@@ -1,4 +1,4 @@
-# Trabalho Prético de Redes Neurais
+# Trabalho Prático de Redes Neurais
 Trabalho de implementação de um algoritmo genético de otimização de hiperparametros para um CNN
 
 Autores:
